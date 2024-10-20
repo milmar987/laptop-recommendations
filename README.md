@@ -293,3 +293,5 @@ If you have not found a suitable laptop from the list, you might want to go scou
     - Wi-Fi 6 or newer (6e, 7)
 
 When shopping for a MacBook it is also a good idea to look into refurbished models from [Revendo.ch,](<https://revendo.com/de-ch/kaufen/k/macbook/?p=1&properties=eac14d852a57f963157cec47406f61f4%7C6540ce89edc841113031fca391185aaf%7C94fcb25eb3cc688001ac6a73701fd68a> "Revendo.ch") however, we only recommend buying an M2 or later with a minimum of 16Gb of RAM.
+
+https://www.itmagazine.ch/artikel/83160/Fuenf_KI-Notebooks_im_Vergleichstest.html
