@@ -184,13 +184,11 @@ The only device which is a proper convertible with Pen support is the Surface Pr
 
 If you are on a tighter budget, we also have some recommendations for you. All laptops listed below either come with 32Gb of RAM or are *upgradable from 16 to 32Gb in the future*. They are all based on the *second-latest* Intel CPU platform, Meteor Lake, Intel Ultra 7 155H. This CPU is not as efficient as the newer models but still offers the performance you need for IFIs courses. The choice for this CPU platform was made to ensure that
 
-- the laptop can get you through your whole studies
-
-- all of the latest AI features of Windows are supported
+- most Windows AI features are supported but not all
 
 - all devices and monitors offered at UZH can be plugged in
 
-- headroom is available for future hardware requirements
+- hardware requirements suffice for all courses at IFI
 
 Inside the respective categories, the laptops are ordered by our recommendation, starting with our top pick, descending. Your choice mostly depends on where you want to cut corners and how much budget you have. We do **not** recommend to go further back in the Intel generations (13th and 14th gen), because they are experiencing manufacturing problems which leads to overheating and (till this day) can not be fixed. [Read more](<https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a> "Read more")
 
