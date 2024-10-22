@@ -1,8 +1,6 @@
-# laptop-recommendations
-
 Not sure which laptop to get for your studies? We got you covered!
 
-
+<br />
 
 ## Windows
 
@@ -16,7 +14,7 @@ Below you find our Laptop recommendations for Windows powered devices. All recom
 
 - headroom is available for future hardware requirements
 
-Inside the respective categories, the laptops are ordered by price, ascending. They offer identical performance and your choice mostly depends on personal preference and budget.
+Inside the respective categories, the laptops are ordered by price, ascending. They offer identical performance and your choice mostly depends on personal preference, screen size and budget.
 
 
 
@@ -132,7 +130,7 @@ Inside the respective categories, the laptops are ordered by price, ascending. T
 
     - Notes
 
-        - Overall, the OmniBook Ultra looks like a perfect 2in1 device, its only "flaw" being that the screen is OLED, which will result in less battery life compared to LCD. Nevertheless, the offered features, software and exceptional metal build quality might make up for it. Again, this will largely depend on the launch price and the available ports, thus not much more can be said about this device
+        - Overall, the OmniBook Ultra looks like a perfect 2in1 device, its only "flaw" being that the screen is OLED, which will result in less battery life compared to LCD. This is the only OLED laptop in our recommended lineup. Nevertheless, the offered features, software and exceptional metal build quality might make up for it. Again, this will largely depend on the launch price and the available ports, thus not much more can be said about this device
 
 
 
@@ -164,6 +162,143 @@ I have never owned or used an ARM based laptop for programming, however, I know 
 If you decide to go this path, I can recommend you the following CPU: Snapdragon Elite X1E-84-100  
 Devices that use this CPU: [Snapdragon X Elite \| Snapdragon Laptops & PCs \| Qualcomm](<https://www.qualcomm.com/snapdragon/laptops>)  
 The only device which is a proper convertible with Pen support is the Surface Pro 11, which I can recommend. Although I would aim for the X Plus with LCD screen in this case, both because of price and battery life.
+
+
+
+
+
+
+
+## Windows budget options (last-gen)
+
+If you are on a tighter budget, we also have some recommendations for you. All laptops listed below either come with 32Gb of RAM or are *upgradable from 16 to 32Gb in the future*. They are all based on the *second-latest* Intel CPU platform, Meteor Lake, Intel Ultra 7 155H. This CPU is not as efficient as the newer models but still offers the performance you need for IFIs courses. The choice for this CPU platform was made to ensure that
+
+- the laptop can get you through your whole studies
+
+- all of the latest AI features of Windows are supported
+
+- all devices and monitors offered at UZH can be plugged in
+
+- headroom is available for future hardware requirements
+
+Inside the respective categories, the laptops are ordered by our recommendation, starting with our top pick, descending. Your choice mostly depends on where you want to cut corners and how much budget you have. We do **not** recommend to go further back in the Intel generations (13th and 14th gen), because they are experiencing manufacturing problems which leads to overheating and (till this day) can not be fixed. [Read more](<https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a> "Read more")
+
+
+
+**Conventional Laptops, great if you already have an iPad / Tablet**
+
+---
+
+1. Lenovo ThinkBook 14 Gen 7 - [*Pricing*](<https://www.toppreise.ch/preisvergleich/Notebooks/LENOVO-ThinkBook-14-Gen-7-Core-Ultra-7-155H-32GB-21MR009MMZ-p776292?selsort=rd> "Pricing")
+    - Display
+
+        - 14\.0 Inch, 16:10
+
+        - 1920 x 1200, 60Hz
+
+        - Non-Touch
+
+    - 60Wh battery
+
+    - 1\.38 Kg
+
+    - Compromises
+
+        - Less robust build quality than other budget laptops
+
+    - Notes
+
+        - *Currently being discounted*, this is the top pick for value-for-money. With its light(er) weight compared to the other budget laptops and well thought out compromises, this model will get you through your studies effortlessly.
+
+2. Lenovo ThinkPad E16 Gen. 2 (16" Intel) with 32Gb RAM - [*Pricing*](<https://www.toppreise.ch/preisvergleich/Notebooks/LENOVO-ThinkPad-E16-Gen-2-Core-Ultra-7-155H-32GB-21MA0058MZ-p776380?selsort=rd> "Pricing")
+    Also available in 14" with 16Gb RAM - [Pricing](<https://www.toppreise.ch/preisvergleich/Notebooks/LENOVO-ThinkPad-E14-Gen-6-Core-Ultra-7-155H-16GB-21M7005LMZ-p781342?selsort=rd&posf=1> "Pricing")
+
+    - Display
+        - 16 or 14 Inch, 16:10
+
+        - 1920 x 1200, 60Hz
+
+        - Non-Touch
+
+    - 57Wh battery
+
+    - 1\.81 Kg
+
+    - Compromises
+
+        - Small battery
+
+        - Heavy weight
+
+        - Slower RAM
+
+        - Less storage (512Gb instead of 1Tb)
+
+    - Notes
+
+        - The ThinkPad series is a well known classic of Lenovo and can be spotted often at the university. With its iconic design and fair pricing, this laptop does the job, especially thanks to its 32Gb of RAM. The 14" offers all the same features but in a smaller package, except that it has 16Gb of RAM.
+
+3. Dell Inspiron 14 Plus 32Gb RAM - [*Recommended configuration*](<https://www.dell.com/de-ch/shop/dell-laptops/inspiron-14-plus-laptop/spd/inspiron-14-7440-laptop/cn74713?ref=variantstack#tech-specs-anchor> "Recommended configuration")
+    - Display
+        - 14 Inch, 16:10
+
+        - 2\.880 x 1.800, 60Hz
+
+        - Non-Touch
+
+    - 64Wh battery
+
+    - 1\.6 Kg
+
+    - Compromises
+
+        - RAM has to be chosen 32Gb because it is *not* upgradeable later on
+
+        - Charging over DC-barrel but USB-C is supported
+
+    - Notes
+
+        - The Dell Inspiron series is the mid-class series of Dell. They offer a great performance-to-price ratio and come with all necessary ports for daily operation. Although not the most common pick among students, this laptop offers greater performance in the budget section thanks to its faster, soldered RAM and a better screen resolution.
+
+
+
+
+
+**360° / 2-in-1 Laptops with Pen support, great if you do not have a tablet yet**
+
+---
+
+1. Inspiron 16-2-in-1-Laptop - [*Recommended configuration*](<https://www.dell.com/de-ch/shop/dell-laptops/inspiron-16-2-in-1-laptop/spd/inspiron-16-7640-2-in-1-laptop/cn74903?ref=variantstack> "Recommended configuration")
+
+    - Display
+
+        - 16 Inch, 16:10
+
+        - 2\.560 x 1.600, 90Hz
+
+        - Touch with Pen Support
+
+    - 90Wh battery
+
+    - 2\.18 Kg
+
+    - Compromises
+
+        - RAM has to be chosen 32Gb because it is *not* upgradeable later on
+
+        - Heavy weight
+
+        - Pen needs to be bought additionally - [Model](<https://www.dell.com/de-ch/shop/aktiver-dell-stift-pn5122w/apd/750-adrd/handhelds-und-tablets> "Model")
+
+    - Notes
+
+        - A wonderful combination between size, display and battery. This 2-in-1 excels with its large and vivid display and offers a great overall package.
+
+
+
+
+
+
 
 
 
@@ -292,6 +427,12 @@ If you have not found a suitable laptop from the list, you might want to go scou
 
     - Wi-Fi 6 or newer (6e, 7)
 
-When shopping for a MacBook it is also a good idea to look into refurbished models from [Revendo.ch,](<https://revendo.com/de-ch/kaufen/k/macbook/?p=1&properties=eac14d852a57f963157cec47406f61f4%7C6540ce89edc841113031fca391185aaf%7C94fcb25eb3cc688001ac6a73701fd68a> "Revendo.ch") however, we only recommend buying an M2 or later with a minimum of 16Gb of RAM.
+When shopping for a MacBook it is also a good idea to look into refurbished models from [Revendo.ch,](<https://revendo.com/de-ch/kaufen/k/macbook/?p=1&properties=eac14d852a57f963157cec47406f61f4%7C6540ce89edc841113031fca391185aaf%7C94fcb25eb3cc688001ac6a73701fd68a> "Revendo.ch") however, we only recommend buying an M2 or later and with more than 16Gb of RAM.
 
-https://www.itmagazine.ch/artikel/83160/Fuenf_KI-Notebooks_im_Vergleichstest.html
+
+
+**Did we miss something?**
+
+---
+
+Do you have a great suggestion for this laptop list that you would like to share with other students? Feel free to shoot us an email at [tech@icuzh.ch](<mailto:tech@icuzh.ch>)
