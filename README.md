@@ -39,6 +39,8 @@ Inside the respective categories, the laptops are ordered by price, ascending. T
 
         - The Lenovo Yoga series offer a great balance between price and value. They are a great overall package, offering plenty use cases. The touchscreen is a welcomed feature and the large display size comes in a great resolution. What you get in this model is a versatile laptop where you (hopefully) will not miss any feature and have a device which will last you a long time, thanks to its metal build
 
+<br />
+
 2. Dell XPS 13 - *Recommended configuration*: [Dell XPS 13-Laptop – Flacher und leichter Laptop \| Dell Schweiz](<https://www.dell.com/de-ch/shop/dell-laptops/neu-xps-13-laptop/spd/xps-13-9350-intel-laptop/cn93905cc>)
     - Display
         - 13\.4 Inch, 16:10
@@ -52,6 +54,8 @@ Inside the respective categories, the laptops are ordered by price, ascending. T
     - Notes
 
         - The Dell XPS series are a bit more expensive for what you get. The reason to get an XPS model is not to get the best performance-for-money but rather excellent build quality, robustness and exceptional form factor. This model is a very compact laptop which is aesthetically pleasing and has one of the best keyboards on the market. The trackpad is invisible and top-row function bar is touch, you decide for yourself if you like this or not. Lastly, this model does not offer an HDMI output, however, all UZH monitors can be connected with USB C
+
+<br />
 
 3. Asus ExpertBook P5 (P5405) - *Product page*:* *[ExpertBook P5 (P5405) \| AI PC for Work \| ASUS Global](<https://www.asus.com/us/laptops/for-work/expertbook/expertbook-p5-p5405/>)
     - Display
@@ -69,6 +73,8 @@ Inside the respective categories, the laptops are ordered by price, ascending. T
     - Notes
 
         - Since the model has not yet officially launched and it is unclear if it will be available in Switzerland, it is hard to categorize it regarding its price and value ratio. Overall, Asus laptops are considerably well built, but might lack some of the robustness compared to Dell and Lenovo. I would personally not get this laptop if the price will be above 1300 CHF, as the Lenovo variant offers better value for only slightly more money. I consider 1150 CHF to be an acceptable price for this model, which will give you laptop which offers all the functionality as the other options while cutting a few corners here and there
+
+<br />
 
 4. Acer Swift - *Product page*: [Acer Swift 14 AI \| Swift 16 AI \| Copilot+ PCs \| Acer Schweiz](<https://www.acer.com/ch-de/laptops/swift/swift-14-16-ai>)
     - Display
@@ -113,6 +119,8 @@ Inside the respective categories, the laptops are ordered by price, ascending. T
     - Notes
 
         - The MSI Summit could be the perfect balance of a conventional laptop and a convertible. It offers great ports and a huge battery for such a compact 13 inch laptop. The only uncertainty is the display brightness, which is not yet mentioned in the specifications. However, the overall usability and package should be a good pick in the 2-in-1 laptop space
+
+<br />
 
 2. HP OmniBook Ultra - *Product page*: [HP OmniBook Ultra KI Laptop PCs \| HP Schweiz](<https://www.hp.com/de-de/laptops-and-2-in-1s/omnibook-ultra-ai-pc.html#section=elevate-creativity>)
 
@@ -216,6 +224,8 @@ Inside the respective categories, the laptops are ordered by our recommendation,
 
         - *Currently being discounted*, this is the top pick for value-for-money. With its light(er) weight compared to the other budget laptops and well thought out compromises, this model will get you through your studies effortlessly.
 
+<br />
+
 2. Lenovo ThinkPad E16 Gen. 2 (16" Intel) with 32Gb RAM - [*Pricing*](<https://www.toppreise.ch/preisvergleich/Notebooks/LENOVO-ThinkPad-E16-Gen-2-Core-Ultra-7-155H-32GB-21MA0058MZ-p776380?selsort=rd> "Pricing")
     Also available in 14" with 16Gb RAM - [Pricing](<https://www.toppreise.ch/preisvergleich/Notebooks/LENOVO-ThinkPad-E14-Gen-6-Core-Ultra-7-155H-16GB-21M7005LMZ-p781342?selsort=rd&posf=1> "Pricing")
 
@@ -243,6 +253,8 @@ Inside the respective categories, the laptops are ordered by our recommendation,
     - Notes
 
         - The ThinkPad series is a well known classic of Lenovo and can be spotted often at the university. With its iconic design and fair pricing, this laptop does the job, especially thanks to its 32Gb of RAM. The 14" offers all the same features but in a smaller package, except that it has 16Gb of RAM.
+
+<br />
 
 3. Dell Inspiron 14 Plus 32Gb RAM - [*Recommended configuration*](<https://www.dell.com/de-ch/shop/dell-laptops/inspiron-14-plus-laptop/spd/inspiron-14-7440-laptop/cn74713?ref=variantstack#tech-specs-anchor> "Recommended configuration")
     - Display
