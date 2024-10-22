@@ -16,7 +16,8 @@ Below you find our Laptop recommendations for Windows powered devices. All recom
 
 Inside the respective categories, the laptops are ordered by price, ascending. They offer identical performance and your choice mostly depends on personal preference, screen size and budget.
 
-
+<br />
+<br />
 
 **Conventional Laptops, great if you already have an iPad / Tablet**
 
@@ -53,7 +54,6 @@ Inside the respective categories, the laptops are ordered by price, ascending. T
         - The Dell XPS series are a bit more expensive for what you get. The reason to get an XPS model is not to get the best performance-for-money but rather excellent build quality, robustness and exceptional form factor. This model is a very compact laptop which is aesthetically pleasing and has one of the best keyboards on the market. The trackpad is invisible and top-row function bar is touch, you decide for yourself if you like this or not. Lastly, this model does not offer an HDMI output, however, all UZH monitors can be connected with USB C
 
 3. Asus ExpertBook P5 (P5405) - *Product page*:* *[ExpertBook P5 (P5405) \| AI PC for Work \| ASUS Global](<https://www.asus.com/us/laptops/for-work/expertbook/expertbook-p5-p5405/>)
-
     - Display
 
         - 14\.0 Inch, 16:10
@@ -71,7 +71,6 @@ Inside the respective categories, the laptops are ordered by price, ascending. T
         - Since the model has not yet officially launched and it is unclear if it will be available in Switzerland, it is hard to categorize it regarding its price and value ratio. Overall, Asus laptops are considerably well built, but might lack some of the robustness compared to Dell and Lenovo. I would personally not get this laptop if the price will be above 1300 CHF, as the Lenovo variant offers better value for only slightly more money. I consider 1150 CHF to be an acceptable price for this model, which will give you laptop which offers all the functionality as the other options while cutting a few corners here and there
 
 4. Acer Swift - *Product page*: [Acer Swift 14 AI \| Swift 16 AI \| Copilot+ PCs \| Acer Schweiz](<https://www.acer.com/ch-de/laptops/swift/swift-14-16-ai>)
-
     - Display
 
         - 14\.0 or 16.0 Inch, 16:10
@@ -89,7 +88,8 @@ Inside the respective categories, the laptops are ordered by price, ascending. T
         - This model could be one of the best, however, it remains to be seen at which price this will come in. It offers plenty of ports, great build quality and a wonderful screen, all in a compact and light package. The camera is exceptional and overall the laptops seems to be a premium laptop with great additional features such as great speakers. Since it is not released yet, Lenovo Yoga still takes the lead, but we will keep you updated
 
 
-
+<br />
+<br />
 
 
 **360° / 2-in-1 Laptops with Pen support, great if you do not have a tablet yet**
@@ -133,7 +133,8 @@ Inside the respective categories, the laptops are ordered by price, ascending. T
         - Overall, the OmniBook Ultra looks like a perfect 2in1 device, its only "flaw" being that the screen is OLED, which will result in less battery life compared to LCD. This is the only OLED laptop in our recommended lineup. Nevertheless, the offered features, software and exceptional metal build quality might make up for it. Again, this will largely depend on the launch price and the available ports, thus not much more can be said about this device
 
 
-
+<br />
+<br />
 
 
 **Editor's pick**
@@ -147,7 +148,8 @@ Thus, my personal favorite is the Lenovo Slim 7i Gen 9 Aura Edition (15" Intel).
 A strong second choice would be the Acer Swift 16 AI, which offers a large screen size and great overall connectivity and ports. It remains to be seen how the two devices compare in price once it is released.
 
 
-
+<br />
+<br />
 
 
 **Editor's disclaimer and personal opinion**
@@ -165,8 +167,9 @@ The only device which is a proper convertible with Pen support is the Surface Pr
 
 
 
-
-
+<br />
+<br />
+<br />
 
 
 ## Windows budget options (last-gen)
@@ -183,6 +186,9 @@ If you are on a tighter budget, we also have some recommendations for you. All l
 
 Inside the respective categories, the laptops are ordered by our recommendation, starting with our top pick, descending. Your choice mostly depends on where you want to cut corners and how much budget you have. We do **not** recommend to go further back in the Intel generations (13th and 14th gen), because they are experiencing manufacturing problems which leads to overheating and (till this day) can not be fixed. [Read more](<https://www.theverge.com/2024/7/26/24206529/intel-13th-14th-gen-crashing-instability-cpu-voltage-q-a> "Read more")
 
+
+<br />
+<br />
 
 
 **Conventional Laptops, great if you already have an iPad / Tablet**
@@ -261,7 +267,8 @@ Inside the respective categories, the laptops are ordered by our recommendation,
         - The Dell Inspiron series is the mid-class series of Dell. They offer a great performance-to-price ratio and come with all necessary ports for daily operation. Although not the most common pick among students, this laptop offers greater performance in the budget section thanks to its faster, soldered RAM and a better screen resolution.
 
 
-
+<br />
+<br />
 
 
 **360° / 2-in-1 Laptops with Pen support, great if you do not have a tablet yet**
@@ -297,13 +304,10 @@ Inside the respective categories, the laptops are ordered by our recommendation,
 
 
 
-
-
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
 
 
 
@@ -313,7 +317,8 @@ Inside the respective categories, the laptops are ordered by our recommendation,
 Below you find our Laptop recommendations for Apple MacOS devices. If you already have an iPhone and iPad, I highly recommend you to get a Mac. If you only have an iPad, you should definitely look at the Windows alternatives though!  
 All recommended laptops come with at least 16Gb of RAM, the minimum we would recommend. Having less RAM might work for most IFI courses, however, it is rather sparse for machine learning and AI. For the CPU we suggest to aim for M2 series or newer, given the latest improvements with Apple Silicon in the past years.
 
-
+<br />
+<br />
 
 **MacBook Air**
 
@@ -327,7 +332,8 @@ The new MacBook Air with the Apple Silicon chip is more than enough to get you t
 
 - For storage, we would aim for 1TB, because the 512Gb models are known to be much slower in read and write speeds
 
-
+<br />
+<br />
 
 **MacBook Pro**
 
@@ -343,9 +349,10 @@ Although *more powerful than you need for completing your studies* at University
 
 - For storage we can only recommend to think ahead and better buy a bit more than you think you need, because it is not upgradeable. Personally, I would go with 2TB or more
 
+<br />
+<br />
 
-
-## Tablet recommendation (TBD)
+## Tablet recommendation (TBD, leave away for now)
 
 ---
 
@@ -359,7 +366,8 @@ Although *more powerful than you need for completing your studies* at University
 
     - iPad Air 13‑inch with Apple Pencil Pro
 
-
+<br />
+<br />
 
 **Where to buy**
 
@@ -367,7 +375,8 @@ Although *more powerful than you need for completing your studies* at University
 
 Most of the mentioned devices, both Windows and MacOS, can be bought with student discount. Please check with the individual sellers websites, where you often have to sign up and verify your identity. Another platform which directly offers student discounts (also on other models) is [Projekt Neptun](<https://projektneptun.ch/de/university/>) or [edu.ch](<http://edu.ch>),however, they only have short timeframes in which they sell the laptops and specific models. Always check multiple websites for student discount on the mentioned models before buying!
 
-
+<br />
+<br />
 
 **Further guidance**
 
@@ -429,7 +438,8 @@ If you have not found a suitable laptop from the list, you might want to go scou
 
 When shopping for a MacBook it is also a good idea to look into refurbished models from [Revendo.ch,](<https://revendo.com/de-ch/kaufen/k/macbook/?p=1&properties=eac14d852a57f963157cec47406f61f4%7C6540ce89edc841113031fca391185aaf%7C94fcb25eb3cc688001ac6a73701fd68a> "Revendo.ch") however, we only recommend buying an M2 or later and with more than 16Gb of RAM.
 
-
+<br />
+<br />
 
 **Did we miss something?**
 
